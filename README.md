@@ -7,3 +7,4 @@ This is my submission for the STEM Next Essay Competition 2025.
 It explores how AI and VR are reshaping education through personalisation and immersive learning, as well as the risks and challenges schools must address.  
 
 📄 [Read the full essay (PDF). 
+https://drive.google.com/file/d/1zZMhAwinbGlP7Wihm8EBMsNVhd-5OPwQ/view?usp=drivesdk
